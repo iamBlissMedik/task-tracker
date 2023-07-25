@@ -1,10 +1,10 @@
 import Header from "./components/Header";
 
 function App() {
-  
+  const title = "Task Tracker";
   return (
     <div className="container">
-      <Header />
+      <Header title={title} />
     </div>
   );
 }
