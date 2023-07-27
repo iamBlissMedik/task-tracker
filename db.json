@@ -9,7 +9,7 @@
     {
       "text": "REACT FREECODECAMP NEXT",
       "day": "27TH OF JULY,2PM",
-      "reminder": true,
+      "reminder": false,
       "id": 2
     }
   ]
